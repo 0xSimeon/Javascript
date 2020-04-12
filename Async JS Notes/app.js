@@ -233,7 +233,7 @@ function testEmail(email) {
 async function userData() {
 	try {
 		const [userEmail, password] = await loginUser(
-			"simeon.udoh45gmail.com",
+			"simeon.udoh45gmail.com", 
 			12345
 		);
 		console.log(`The email is ${userEmail} and the password is ${password}`);
