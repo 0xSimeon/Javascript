@@ -229,6 +229,7 @@ function testEmail(email) {
 		}, 4000);
 	});
 }
+// Async function
 
 async function userData() {
 	try {
