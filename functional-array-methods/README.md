@@ -19,4 +19,4 @@ Including:
      Array.prototype.find()
 
 
-Code snapshots available here: [Images]()
+Code snapshots available here: [Images](https://github.com/simeon4real/Javascript/tree/master/functional-array-methods/images)
